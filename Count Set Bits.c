@@ -1,4 +1,4 @@
-## Question: Count Set Bits
+## Question: Count Set Bits.
 
 ### Given Problem
 Given a number N, find the number of bits that are set to `1` in its binary representation.
