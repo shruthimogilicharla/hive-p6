@@ -1,4 +1,4 @@
-## Question: Binary Representation.
+## Question: Binary Representation
 
 ### Given Problem
 Given a positive integer N, print its binary representation.
